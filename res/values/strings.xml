@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">quickReport</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	    <string-array name="Types">
+        <item>Bribe</item>
+        <item>Eve Teasing</item>
+        <item>Traffic Violation</item>
+    </string-array>
+    
+</resources>
